@@ -53,6 +53,6 @@ I am a 2nd-year B.Tech CS student at IIIT Delhi, currently learning web developm
 
 ## GitHub Stats
 
-![Aniket's GitHub stats](https://github-readme-stats.vercel.app/api?username=aniket01jan2008-svg&show_icons=true&theme=default)
+![Aniket's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aniket01jan2008-svg&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aniket01jan2008-svg&layout=compact&theme=default)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aniket01jan2008-svg&theme=default)
